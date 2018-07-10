@@ -8,4 +8,4 @@ const reverse = (str) => {
   return reversedString;
 };
 
-export default reverse;
+module.exports = reverse;
